@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//Inference/PythonInference/vad/src/models/vad_model.py=utf-8
+encoding//asr/models/wav_model.py=utf-8
+encoding//augmentations/tts_for_asr/utils/__init__.py=utf-8
+encoding//leaf_audio/__init__.py=utf-8
